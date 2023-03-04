@@ -289,9 +289,10 @@ checkLoop:
 	
 	
 	#print_file_contents(t0)
+ender:	
 	#................ your code here..........................................................#
 	
-ender:	
+
 	#END YOUR CODE ABOVE THIS COMMENT
 	#Don't change anything below this comment!
 	
