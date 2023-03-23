@@ -97,7 +97,7 @@ next_record:
 	
 #######################end of main###############################################
 .include "allocate_file_record_pointers.asm"
-.include "income_from_record_v2.asm"
+.include "income_from_record.asm"
 .include "length_of_file.asm"
 .include "totalIncome.asm"
 .include "maxIncome.asm"
